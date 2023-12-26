@@ -1,7 +1,7 @@
 public class BubbleSort {
     public static void main(String[] args) {
 
-        int numbers[] = {3, 60, 35, 2, 45, 320, 5};
+        int[] numbers = {3, 60, 35, 2, 45, 320, 5};
 
         System.out.println("Array Before Bubble Sort");
         for (int j : numbers) {
